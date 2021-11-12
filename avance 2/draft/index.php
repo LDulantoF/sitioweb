@@ -11,5 +11,6 @@
             <a class="btn btn-primary btn-lg" href="productos.php" role="button">Ver almacen de libros</a>
         </p>
     </div>
+
         
 <?php include("template/pie.php");?>
