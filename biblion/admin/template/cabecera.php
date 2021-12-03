@@ -28,7 +28,7 @@ session_start();
   </head>
   <body>
 
- <?php $url="http://".$_SERVER['HTTP_HOST']."/proyecto" ?> 
+ <?php $url="http://".$_SERVER['HTTP_HOST']."/draft" ?> 
 
 <nav class="navbar navbar-expand navbar-light bg-light">
     <div class="nav navbar-nav">

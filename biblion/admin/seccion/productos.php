@@ -24,7 +24,7 @@ switch($accion){
             $tmpImagen=$_FILES["txtImagen"]["tmp_name"];
             
             if($tmpImagen!=""){
-
+            //copiar la imagen en el archivo
                 move_uploaded_file($tmpImagen,"../../img/".$nombreArchivo);
             }
 
